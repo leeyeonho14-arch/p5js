@@ -15,17 +15,30 @@
     <section id="projects">
     
         <div class="project">
-            <a href="sample1/index.html">
-                프로젝트 1: 이 프로그램은 마우스를 따라 움직이는 원을 그립니다.
+            <a href="One_circle_2025_11_29_07_29_20/index.html">
+                프로젝트 1: 이 프로그램은 추상화이다.
             </a>
         </div>
     
         <div class="project">
-            <a href="sample2/index.html">
-                프로젝트 2: 이 프로그램은 다양한 색상으로 변화하는 배경을 만듭니다.
+            <a href="Sunset_desk_2025_11_29_07_46_31/index.html">
+                프로젝트 2: 이 프로그램은 캐리커쳐이다.
+            </a>
+        </div>
+
+    <div class="project">
+            <a href="Sunset_desk_2025_11_29_07_43_34/index.html">
+                프로젝트 1: 이 프로그램은 캐리커쳐 애니메이션이다.
+            </a>
+        </div>
+
+    <div class="project">
+            <a href="Peaceful_fold_2025_11_29_07_13_21/index.html">
+                프로젝트 1: 이 프로그램은 추상화 애니메이션이다.
             </a>
         </div>
 
     </section>
 </body>
+
 </html>
